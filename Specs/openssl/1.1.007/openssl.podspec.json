@@ -35,7 +35,8 @@
     "sha1": "a338640e2d1c9bb763fa50ad35e40ea9801d0fe7"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "8.0",
+    "tvos": "9.0"
   },
   "source_files": "include/**/*.h",
   "ios": {
