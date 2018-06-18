@@ -8,8 +8,10 @@ TLS/SSL and crypto library
 
 | version          | Xcode | SDK version           | iOS  | watchOS | tvOS | macOS | bitcode |
 | ---------------- | ----- | --------------------- | ---- | ------- | ---- | ----- | ------- |
-| 1.1.007 (1.1.0g) | 9.2   | iOS 11.2              | >8.0 | NA      | >9.2 | NA    | ✓       |
-| 1.0.212 (1.0.2l) | 9.2   | iOS 11.2              | >8.0 | NA      | >9.2 | NA    | ✓       |
+| 1.1.008 (1.1.0h) | 9.4   | iOS 11.4              | >8.0 | NA      | >9.0 | NA    | ✓       |
+| 1.1.007 (1.1.0g) | 9.2   | iOS 11.2              | >8.0 | NA      | >9.0 | NA    | ✓       |
+| 1.0.214 (1.0.2n) | 9.4.1 | iOS 11.4              | >8.0 | NA      | >9.0 | NA    | ✓       |
+| 1.0.212 (1.0.2l) | 9.2   | iOS 11.2              | >8.0 | NA      | >9.0 | NA    | ✓       |
 
 Build with script via [x2on/OpenSSL-for-iPhone](https://github.com/x2on/OpenSSL-for-iPhone)
 
